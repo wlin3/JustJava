@@ -19,7 +19,7 @@
     <string name="quantity">Cantidad</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=5] -->
-    <string name="initial_quantity_value">2</string>
+    <string name="initial_quantity_value">0</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
     <string name="order">Ordenar</string>
